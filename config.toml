@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://nicokon.github.io/myBlog/"
 title = "Hugo Theme MemE"
 languageCode = "en"
 hasCJKLanguage = false
