@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://nicokon.github.io/"
+baseURL = "https://nicokon.github.io/myBlog"
 title = "nicokon"
 languageCode = "zh-CN"
 hasCJKLanguage = true

@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nicokon.github.io/about/</loc>
-    <lastmod>2021-01-03T17:08:50+08:00</lastmod>
+    <loc>https://nicokon.github.io/myBlog/about/</loc>
+    <lastmod>2021-01-03T17:14:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nicokon.github.io/</loc>
-    <lastmod>2021-01-03T17:08:50+08:00</lastmod>
+    <loc>https://nicokon.github.io/myBlog/</loc>
+    <lastmod>2021-01-03T17:14:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nicokon.github.io/posts/first_post/</loc>
-    <lastmod>2021-01-03T17:08:50+08:00</lastmod>
+    <loc>https://nicokon.github.io/myBlog/posts/first_post/</loc>
+    <lastmod>2021-01-03T17:14:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nicokon.github.io/posts/</loc>
-    <lastmod>2021-01-03T17:08:50+08:00</lastmod>
+    <loc>https://nicokon.github.io/myBlog/posts/</loc>
+    <lastmod>2021-01-03T17:14:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nicokon.github.io/categories/</loc>
+    <loc>https://nicokon.github.io/myBlog/categories/</loc>
   </url>
   
   <url>
-    <loc>https://nicokon.github.io/tags/</loc>
+    <loc>https://nicokon.github.io/myBlog/tags/</loc>
   </url>
   
 </urlset>
