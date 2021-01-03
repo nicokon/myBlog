@@ -23,10 +23,34 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 03 Jan 2021 17:08:48 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2021 17:14:25 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://nicokon.github.io/rss.xml" />
         
+        
+            <item>
+                <title>First_post</title>
+                <link>https://nicokon.github.io/posts/first_post/</link>
+                <guid isPermaLink="true">https://nicokon.github.io/posts/first_post/</guid>
+                <pubDate>Sun, 03 Jan 2021 16:48:56 &#43;0800</pubDate>
+                
+                    <author>nicokonop@gmail.com (nicokon)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
     </channel>
 </rss>
