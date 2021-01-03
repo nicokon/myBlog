@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">nicokon</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2021-01-03T17:27:48&#43;08:00</updated>
+    <updated>2021-01-03T17:56:21&#43;08:00</updated>
     <id>https://nicokon.github.io/myBlog/</id>
     <link rel="alternate" type="text/html" href="https://nicokon.github.io/myBlog/" />
     <link rel="self" type="application/atom&#43;xml" href="https://nicokon.github.io/myBlog/atom.xml" />
@@ -27,9 +27,10 @@
                     <uri>https://nicokon.github.io/myBlog/</uri>
                     <email>nicokonop@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">helloworld</summary>
             
-                <content type="html"></content>
+                <content type="html">&lt;p&gt;helloworld&lt;/p&gt;
+</content>
             
             
             
@@ -37,7 +38,23 @@
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://nicokon.github.io/myBlog/categories/tech/" term="tech" label="tech" />
+                            
+                        
+                    
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://nicokon.github.io/myBlog/tags/test/" term="test" label="test" />
+                            
+                        
                     
                 
             

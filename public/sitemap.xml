@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://nicokon.github.io/myBlog/categories/</loc>
+    <lastmod>2021-01-03T17:14:28+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nicokon.github.io/myBlog/posts/first_post/</loc>
     <lastmod>2021-01-03T17:14:28+08:00</lastmod>
   </url>
@@ -23,11 +28,18 @@
   </url>
   
   <url>
-    <loc>https://nicokon.github.io/myBlog/categories/</loc>
+    <loc>https://nicokon.github.io/myBlog/tags/</loc>
+    <lastmod>2021-01-03T17:14:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nicokon.github.io/myBlog/tags/</loc>
+    <loc>https://nicokon.github.io/myBlog/categories/tech/</loc>
+    <lastmod>2021-01-03T17:14:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicokon.github.io/myBlog/tags/test/</loc>
+    <lastmod>2021-01-03T17:14:28+08:00</lastmod>
   </url>
   
 </urlset>

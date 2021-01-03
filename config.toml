@@ -48,7 +48,7 @@ uglyURLs = false
 [permalinks]
     categories = "/categories/:slug/"
     tags = "/tags/:slug/"
-	posts = "/posts/:slug/"
+	
 # 类别
 [taxonomies]
     category = "categories"
