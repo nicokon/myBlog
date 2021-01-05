@@ -26,5 +26,8 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: nicokon/nicokon.github.io
+          publish_branch: develop
+          keep_files: false
+          publish_dir: ""
