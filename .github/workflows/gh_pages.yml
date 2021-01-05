@@ -30,4 +30,4 @@ jobs:
           external_repository: nicokon/nicokon.github.io
           publish_branch: develop
           keep_files: false
-          publish_dir: ""
+          publish_dir: ./public
