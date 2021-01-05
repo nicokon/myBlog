@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://nicokon.github.io/myBlog"
+baseURL = "https://nicokon.github.io/"
 title = "nicokon"
 languageCode = "zh-CN"
 hasCJKLanguage = true
@@ -186,25 +186,25 @@ uglyURLs = false
     #     post = "home"
     [[menu.main]]
         url = "/posts/"
-        name = "归档"
+        name = "Posts"
         weight = 2
         pre = "internal"
         post = "archive"
     [[menu.main]]
         url = "/categories/"
-        name = "分类"
+        name = "Categories"
         weight = 3
         pre = "internal"
         post = "th"
     [[menu.main]]
         url = "/tags/"
-        name = "标签"
+        name = "Tags"
         weight = 4
         pre = "internal"
         post = "tags"
     [[menu.main]]
         url = "/about/"
-        name = "关于"
+        name = ""
         weight = 5
         pre = "internal"
         post = "user-circle"

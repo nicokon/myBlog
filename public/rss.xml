@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>nicokon</title>
-        <link>https://nicokon.github.io/myBlog/</link>
+        <link>https://nicokon.github.io/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.79.1 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 03 Jan 2021 18:09:05 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2021 17:46:49 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://nicokon.github.io/myBlog/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://nicokon.github.io/rss.xml" />
         
         
             <item>
                 <title>First_post</title>
-                <link>https://nicokon.github.io/myBlog/posts/first_post/</link>
-                <guid isPermaLink="true">https://nicokon.github.io/myBlog/posts/first_post/</guid>
+                <link>https://nicokon.github.io/posts/first_post/</link>
+                <guid isPermaLink="true">https://nicokon.github.io/posts/first_post/</guid>
                 <pubDate>Sun, 03 Jan 2021 16:48:56 &#43;0800</pubDate>
                 
                     <author>nicokonop@gmail.com (nicokon)</author>
@@ -51,7 +51,7 @@
                                 
                                 
                                 
-                                    <category domain="https://nicokon.github.io/myBlog/categories/tech/">tech</category>
+                                    <category domain="https://nicokon.github.io/categories/tech/">tech</category>
                                 
                             
                         
@@ -61,7 +61,7 @@
                                 
                                 
                                 
-                                    <category domain="https://nicokon.github.io/myBlog/tags/test/">test</category>
+                                    <category domain="https://nicokon.github.io/tags/test/">test</category>
                                 
                             
                         
