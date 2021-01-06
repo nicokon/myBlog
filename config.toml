@@ -10,6 +10,15 @@ title = "nicokon’s blog"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
+# whether to use robots.txt
+# 是否使用 robots.txt
+enableRobotsTXT = true
+# whether to use git commit log
+# 是否使用 git 信息
+enableGitInfo = true
+# whether to use emoji code
+# 是否使用 emoji 代码
+enableEmoji = true
 
 [params]
   # LoveIt 主题版本
@@ -19,7 +28,8 @@ theme = "LoveIt"
   # keywords = ["Blog", "Dev","Life"] 
   # 网站默认主题样式 ("light", "dark", "auto")
   defaultTheme = "auto"
-  
+  gitRepo = "https://nicokon.github.io/"
+  fingerprint = "sha256"
   [params.app]
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
     title = "nicokon’s blog"
