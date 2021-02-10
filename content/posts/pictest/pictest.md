@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: "Pictest"
 subtitle: ""
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: 2021-02-10T20:48:23+08:00
+lastmod: 2021-02-10T20:48:23+08:00
 draft: false
 author: "nicokon"
 authorLink: ""
@@ -26,3 +26,6 @@ license: ""
 ---
 
 <!--more-->
+![markdown图片](function示例.png)
+
+{{< figure src="/assets/images/MIT6001x-Summary/a.png" title="函数示例 (figure)" >}}
